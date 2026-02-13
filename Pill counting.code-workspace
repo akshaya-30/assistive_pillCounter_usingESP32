@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "espcamtesting",
+			"path": "../../testing/espcamtesting"
+		}
+	],
+	"settings": {}
+}
